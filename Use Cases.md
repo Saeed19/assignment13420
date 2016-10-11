@@ -1,6 +1,6 @@
 Title: Determine License and Vulnerability Information
 
-Primary Actor: Corporate Manager 
+Primary Actor: Corporate Manager.
 
 Goal in Context: 
 
