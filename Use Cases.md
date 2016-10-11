@@ -1,4 +1,4 @@
-#Use Case 
+#Use Case 1
 
 Title: Determine License and Vulnerability Information
 
